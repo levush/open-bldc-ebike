@@ -1,5 +1,30 @@
+Why I chose this license for the ebike interface:
+
+NO ONE SHOULD MAKE MONEY FROM MY WORK WITHOUT PAYING ME.
+I bought a chinese made ebike in Israel and all these israeli chinese
+ebikes are quite the same, the just have different stickers and 
+only smonetimes different frames.
+My bike is from kalofan.co.il and I bought it used, its a 26 inch city bike.
+
+I dont want the chinese bicycle companies derive from my work, and get rich!
+They should do it right in the first place so I dont have to feel bad when
+biking with their controllers and simple block commutation and some bad 
+usability they should pay me for my development by giving me some free bikes
+ or some money for my engineering.
+
+PRIVATE USE IS FREE
+If you are private, and feel that you need to improve your bike, go ahead 
+and build but dont blame me if the police catches you or you have an
+accident. You use this on your own risk.
+YOU ARE THE MANUFACTURER, AS THIS IS ONLY CODE WHICH YOU INTEGRATE INTO
+YOUR PRODUCT, WHICH ARE YOUR MODIFIED PRIVATE BIKES, ALL OWNED AND USED 
+BY YOU! 
+
+POLICE MILITARY OR GOVERMENT USE IS FORBIDDEN
+ 
+---
 License Creative Commons
-Attribution-NonCommercial-NoDerivs 3.0 Unported
+Attribution-NonCommercial-NoDerivs 3.0 Unported, MODIFIED (clause 9 added)
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
@@ -56,3 +81,9 @@ UNLESS OTHERWISE MUTUALLY AGREED BY THE PARTIES IN WRITING, LICENSOR OFFERS THE 
     No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
     This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
     The rights granted under, and the subject matter referenced, in this License were drafted utilizing the terminology of the Berne Convention for the Protection of Literary and Artistic Works (as amended on September 28, 1979), the Rome Convention of 1961, the WIPO Copyright Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996 and the Universal Copyright Convention (as revised on July 24, 1971). These rights and subject matter take effect in the relevant jurisdiction in which the License terms are sought to be enforced according to the corresponding provisions of the implementation of those treaty provisions in the applicable national law. If the standard suite of rights granted under applicable copyright law includes additional rights not granted under this License, such additional rights are deemed to be included in the License; this License is not intended to restrict the license of any rights under applicable law.
+
+
+9. No military or police use
+Under no circumstances this work may be used in devices which are used by military entities, goverments or the police.
+Direct use by ownership or indirect use by renting, leasing, consulting or other forms of allowing the parties mentioned in this clause to use it
+
